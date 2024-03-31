@@ -13,11 +13,24 @@ A bot that hosts a mock airdrop to demonstrate the user-experience of the airbot
 
 
 ### Instructions :
-* Edit the bot token. #l.20
-* Get a vps : **Ionos** for instance
-* ```git clone https://github.com/ycngmn/Airbots.git```
-* ```cd Airbots```
-* ```pip install -r requirements.txt```
-* ```python main.py```
+
+1. Edit the bot token. #l.20
+2. Get a vps : **Ionos** for instance
+3. Copy the repository.
+```
+git clone https://github.com/ycngmn/Airbots.git
+```
+4. Go to the directory
+```
+cd Airbots
+```
+5. Install required packages
+```
+pip install -r requirements.txt
+```
+6. Run the programme.
+```
+python main.py
+```
 
 Please consult [AirbotsX](https://t.me/AirbotsX) to learn more..
