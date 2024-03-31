@@ -1,0 +1,7 @@
+{
+  "en": {
+      "text": "<blockquote>Almost all users are real humans but one may try to cheat creating userbots to win referral competition or to earn more tokens. Captcha protects our airdrop by preventing <b>malicious bots, multiple-entries and spam.</b></blockquote>\n\n#USER, We know you're a humain, bots don't like cookies. Captcha is a protocol 😇.\n\n<blockquote>Users get 3 tries and 2 chances to refresh the captcha. Captcha must be verified within 10 mins. Failing to do so would result in ban. These parameters are also customizable.</blockquote>\n\n✅ 3 tries | 🔄 2 refresh| ⏰ 10 mins\n\n<b>Please enter the code to complete.</b>",
+      "try_again": "⚠️ : Please try it again!",
+      "your_code": "Your code: ",
+      "wrong_user": "❌ : This is not your task!",
+      "too_short": "❌ : The code you entered is too short!"}}
