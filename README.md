@@ -16,6 +16,7 @@ A bot that hosts a mock airdrop to demonstrate the user-experience of the airbot
 
 1. Edit the bot token. #l.20
 2. Get a vps : **Ionos** for instance
+
 3. Copy the repository.
 ```
 git clone https://github.com/ycngmn/Airbots.git
